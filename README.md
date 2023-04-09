@@ -1,2 +1,2 @@
 # RRTlib
-Collection of varieties of RRT algorithm based on c++ and python
+This repository implements some rrt-based path planning algorithms used in robotics. 
